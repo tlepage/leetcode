@@ -1,2 +1,3 @@
-# leetcode
-Leetcode Submissions
+# Leetcode Submissions
+
+Leetcode submissions and practice work
